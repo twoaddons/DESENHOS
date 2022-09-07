@@ -11,7 +11,7 @@
 
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white]ANIMES [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/ANIMES/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
